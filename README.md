@@ -35,6 +35,7 @@ Upload these files to any static hosting service (Netlify, Vercel, etc.) - no se
 - `index.html` - Self-contained tour viewer (loads Three.js from CDN)
 - `data/tour.json` - Tour configuration and hotspot data
 - `images/` - All panorama and hotspot images
+- `files/` - PDF attachments (if any)
 - `.nojekyll` - Required for GitHub Pages compatibility
 
 ---

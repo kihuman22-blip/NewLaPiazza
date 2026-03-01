@@ -1,87 +1,86 @@
 {
   "id": "1772334897874-qsr14bawh",
   "name": "My Virtual Tour",
-  "description": "An immersive 360 experience",
   "scenes": [
     {
       "id": "1772334920245-5slqt3z59",
       "name": "Drinnen",
-      "imageUrl": "images/scenes/drinnen.jpg",
       "hotspots": [
         {
           "id": "1772335100117-ehagbpq2z",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Eingang",
           "position": {
             "yaw": 268.03319742757134,
             "pitch": -13.008629778028785
           },
-          "title": "Go to Eingang",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334947440-had5gwyc3"
         },
         {
           "id": "1772335121316-rfs7j5n74",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to EssenHinten",
           "position": {
             "yaw": -245.45270035192664,
             "pitch": -27.949999999999978
           },
-          "title": "Go to EssenHinten",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334928539-ot200qqcy"
         },
         {
           "id": "1772335197796-91xf2yywh",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Essen1",
           "position": {
             "yaw": -18.38443027222656,
             "pitch": -23.0888440986451
           },
-          "title": "Go to Essen1",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334941088-qop1tk2xb"
         },
         {
           "id": "1772337338100-i2iqvy4w6",
+          "icon": "info",
           "type": "info",
+          "color": "#f59e0b",
+          "title": "Information",
           "position": {
             "yaw": 20.400000000000006,
             "pitch": -12.004752701530585
           },
-          "title": "Information",
-          "icon": "info",
-          "color": "#f59e0b",
           "description": "🍽️ Tisch reservieren im La Piazza\n\nHier Klicken: ( https://widget.thefork.com/de/52f4e596-0c1b-4e16-b27b-76ed8dd85680?fbclid=PAZXh0bgNhZW0CMTEAAad2ozTRXHlXnZe3rbpp07-EHCH-Ysms3OwbdWCX_YomkWhVvDTWWUtRyFv8Bw_aem_sypDhJhDdpolCRT2bJKBaQ&utm_source=l.instagram.com&step=date )\n\nSichern Sie sich Ihren Lieblingsplatz ganz bequem:\n\n🌐 Online reservieren:\nÜber unsere Website – schnell und unkompliziert rund um die Uhr.\n\n📞 Telefonische Reservierung:\n0471 93141450\n\nWir freuen uns auf Ihren Besuch!"
         },
         {
           "id": "1772340553013-3mg3h2g6q",
+          "icon": "eye",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Silvester im Restaurant La Piazza",
+          "imageUrl": "images/hotspots/drinnen-hs-4.jpeg",
           "position": {
             "yaw": -228.37977607204814,
             "pitch": -5.180929678351356
           },
-          "title": "Silvester im Restaurant La Piazza",
-          "icon": "eye",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/drinnen-hs-4.jpeg",
           "description": "Ein Abend voller Eleganz, Vorfreude und glänzender Genussmomente.\nAm 31. Dezember feiern wir den Jahresausklang mit einem exklusiven 6-Gang-Silvestermenü, das italienische Raffinesse mit festlicher Kreativität verbindet.\nEin Menü wie ein Feuerwerk: funkelnd, duftend, überraschend – perfekt, um das alte Jahr stilvoll zu verabschieden und das neue mit Freude zu begrüßen…"
         },
         {
           "id": "1772340976572-43recgdom",
+          "icon": "utensils",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "",
+          "imageUrl": "images/hotspots/drinnen-hs-5.jpeg",
           "position": {
             "yaw": -35.5123787523538,
             "pitch": -4.758882358746955
-          },
-          "title": "",
-          "icon": "utensils",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/drinnen-hs-5.jpeg"
+          }
         }
       ],
+      "imageUrl": "images/scenes/drinnen.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
@@ -90,33 +89,33 @@
     {
       "id": "1772334922917-1132jr6uh",
       "name": "Essen3rein",
-      "imageUrl": "images/scenes/essen3rein.jpg",
       "hotspots": [
         {
           "id": "1772335378149-3rjcncerb",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Essen3",
           "position": {
             "yaw": -202.18596359604888,
             "pitch": -29.588789252522893
           },
-          "title": "Go to Essen3",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334937434-2iaw7223e"
         },
         {
           "id": "1772340224054-jq4rjngkq",
+          "icon": "utensils",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Tatar vom Lachs, Mango und Avocado mit Riesengarnele",
+          "imageUrl": "images/hotspots/essen3rein-hs-1.jpeg",
           "position": {
             "yaw": -87.88358394318941,
             "pitch": -11.969850712045986
-          },
-          "title": "Tatar vom Lachs, Mango und Avocado mit Riesengarnele",
-          "icon": "utensils",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essen3rein-hs-1.jpeg"
+          }
         }
       ],
+      "imageUrl": "images/scenes/essen3rein.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
@@ -125,46 +124,46 @@
     {
       "id": "1772334925677-h6xl2te2w",
       "name": "EssenEnde",
-      "imageUrl": "images/scenes/essenende.jpg",
       "hotspots": [
         {
           "id": "1772335406019-mqhjl0mig",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Essen3",
           "position": {
             "yaw": -194.2999999999996,
             "pitch": -30.827877625335184
           },
-          "title": "Go to Essen3",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334937434-2iaw7223e"
         },
         {
           "id": "1772340265253-8cdf75pfm",
+          "icon": "star",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "",
+          "imageUrl": "images/hotspots/essenende-hs-1.jpeg",
           "position": {
             "yaw": 56.56476629402067,
             "pitch": -14.732281340295863
-          },
-          "title": "",
-          "icon": "star",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essenende-hs-1.jpeg"
+          }
         },
         {
           "id": "1772340335195-gi8hxs3ip",
+          "icon": "map-pin",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
+          "imageUrl": "images/hotspots/essenende-hs-2.jpeg",
           "position": {
             "yaw": -187.72549879115488,
             "pitch": 6.253054897484837
           },
-          "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
-          "icon": "map-pin",
-          "color": "#f59e0b",
-          "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profilhttps://www.instagram.com/la_piazza_bremerhaven/\n👉 Zum Facebook-Profil https://www.facebook.com/lapiazzabremerhaven/?locale=de_DE\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven.",
-          "imageUrl": "images/hotspots/essenende-hs-2.jpeg"
+          "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profilhttps://www.instagram.com/la_piazza_bremerhaven/\n👉 Zum Facebook-Profil https://www.facebook.com/lapiazzabremerhaven/?locale=de_DE\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven."
         }
       ],
+      "imageUrl": "images/scenes/essenende.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
@@ -173,83 +172,83 @@
     {
       "id": "1772334928539-ot200qqcy",
       "name": "EssenHinten",
-      "imageUrl": "images/scenes/essenhinten.jpg",
       "hotspots": [
         {
           "id": "1772335137015-u8ge0qquz",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Drinnen",
           "position": {
             "yaw": -15.13932104506359,
             "pitch": -30.955204799369426
           },
-          "title": "Go to Drinnen",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334920245-5slqt3z59"
         },
         {
           "id": "1772335144530-cm06pmyca",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Hinten",
           "position": {
             "yaw": 204.8387787383306,
             "pitch": -33.55670135131238
           },
-          "title": "Go to Hinten",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334944161-nw83tfow2"
         },
         {
           "id": "1772340607056-cumekvyrd",
+          "icon": "utensils",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Tatar vom arg. rinderfilet",
+          "imageUrl": "images/hotspots/essenhinten-hs-2.jpeg",
           "position": {
             "yaw": 47.55967563158339,
             "pitch": -10.38039149895476
-          },
-          "title": "Tatar vom arg. rinderfilet",
-          "icon": "utensils",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essenhinten-hs-2.jpeg"
+          }
         },
         {
           "id": "1772340740376-ju6blronz",
+          "icon": "eye",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Silvester im Restaurant La Piazza",
+          "imageUrl": "images/hotspots/essenhinten-hs-3.jpeg",
           "position": {
             "yaw": -50.09782956720068,
             "pitch": -7.625113931426264
           },
-          "title": "Silvester im Restaurant La Piazza",
-          "icon": "eye",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essenhinten-hs-3.jpeg",
           "description": "Ein Abend voller Eleganz, Vorfreude und glänzender Genussmomente.\nAm 31. Dezember feiern wir den Jahresausklang mit einem exklusiven 6-Gang-Silvestermenü, das italienische Raffinesse mit festlicher Kreativität verbindet.\nEin Menü wie ein Feuerwerk: funkelnd, duftend, überraschend – perfekt, um das alte Jahr stilvoll zu verabschieden und das neue mit Freude zu begrüßen…"
         },
         {
           "id": "1772340795234-bwwt0lr8s",
+          "icon": "menu",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "📖 Unsere Speisekarte",
+          "imageUrl": "images/hotspots/essenhinten-hs-4.jpeg",
           "position": {
             "yaw": -250.89294757628787,
             "pitch": -2.523097705163186
           },
-          "title": "📖 Unsere Speisekarte",
-          "icon": "menu",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essenhinten-hs-4.jpeg",
           "description": "Entdecken Sie unsere aktuellen italienischen Spezialitäten –\nvon frischer Pasta über knusprige Pizza bis hin zu feinen Fleisch- und Fischgerichten.\n\n👉 Hier klicken, um unsere Speisekarte zu öffnen https://lapiazza-bremerhaven.de/menu/\n\nWir freuen uns darauf, Sie kulinarisch zu verwöhnen! 🇮🇹"
         },
         {
           "id": "1772340932442-x145dtok0",
+          "icon": "utensils",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Image",
+          "imageUrl": "images/hotspots/essenhinten-hs-5.jpeg",
           "position": {
             "yaw": -197.25304142920612,
             "pitch": -6.932376175085301
-          },
-          "title": "Image",
-          "icon": "utensils",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essenhinten-hs-5.jpeg"
+          }
         }
       ],
+      "imageUrl": "images/scenes/essenhinten.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
@@ -258,122 +257,122 @@
     {
       "id": "1772334931379-qupfim9w8",
       "name": "Essen2",
-      "imageUrl": "images/scenes/essen2.jpg",
       "hotspots": [
         {
           "id": "1772335244995-8ar19igod",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Essen1",
           "position": {
             "yaw": -79.77255727774441,
             "pitch": -32.85000000000014
           },
-          "title": "Go to Essen1",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334941088-qop1tk2xb"
         },
         {
           "id": "1772335280232-8yhqcrspr",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Essen2rein",
           "position": {
             "yaw": 6.6153404024040645,
             "pitch": -32.664367137737955
           },
-          "title": "Go to Essen2rein",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334934279-i68mu83gv"
         },
         {
           "id": "1772335314614-m3dbfgzoe",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Essen3",
           "position": {
             "yaw": 103.3351155888539,
             "pitch": -33.54999999999996
           },
-          "title": "Go to Essen3",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334937434-2iaw7223e"
         },
         {
           "id": "1772338529638-gdr20crb0",
+          "icon": "menu",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "📖 Unsere Speisekarte",
+          "imageUrl": "images/hotspots/essen2-hs-3.jpeg",
           "position": {
             "yaw": 232.28948271532641,
             "pitch": -13.92058717246507
           },
-          "title": "📖 Unsere Speisekarte",
-          "icon": "menu",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essen2-hs-3.jpeg",
           "description": "Entdecken Sie unsere aktuellen italienischen Spezialitäten –\nvon frischer Pasta über knusprige Pizza bis hin zu feinen Fleisch- und Fischgerichten.\n\n👉 Hier klicken, um unsere Speisekarte zu öffnen https://lapiazza-bremerhaven.de/menu/\n\nWir freuen uns darauf, Sie kulinarisch zu verwöhnen! 🇮🇹"
         },
         {
           "id": "1772338776255-x7t7rer8g",
+          "icon": "star",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "La Piazza – Ihre exklusive Eventlocation in Bremerhaven",
+          "imageUrl": "images/hotspots/essen2-hs-4.jpeg",
           "position": {
             "yaw": -191.06221834965348,
             "pitch": 3.0826198223650327
           },
-          "title": "La Piazza – Ihre exklusive Eventlocation in Bremerhaven",
-          "icon": "star",
-          "color": "#f59e0b",
-          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza.",
-          "imageUrl": "images/hotspots/essen2-hs-4.jpeg"
+          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza."
         },
         {
           "id": "1772339982900-495yt8h02",
+          "icon": "map-pin",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
+          "imageUrl": "images/hotspots/essen2-hs-5.jpeg",
           "position": {
             "yaw": -241.70993950204902,
             "pitch": 12.369562736431801
           },
-          "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
-          "icon": "map-pin",
-          "color": "#f59e0b",
-          "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profilhttps://www.instagram.com/la_piazza_bremerhaven/\n👉 Zum Facebook-Profilhttps://www.facebook.com/lapiazzabremerhaven/?locale=de_DE\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven.",
-          "imageUrl": "images/hotspots/essen2-hs-5.jpeg"
+          "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profilhttps://www.instagram.com/la_piazza_bremerhaven/\n👉 Zum Facebook-Profilhttps://www.facebook.com/lapiazzabremerhaven/?locale=de_DE\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven."
         },
         {
           "id": "1772340081545-7pdjrinpc",
+          "icon": "utensils",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "tagliolini mit Pfifferlingen und trüffel",
+          "imageUrl": "images/hotspots/essen2-hs-6.jpeg",
           "position": {
             "yaw": 66.01396824822997,
             "pitch": -16.054375589898594
           },
-          "title": "tagliolini mit Pfifferlingen und trüffel",
-          "icon": "utensils",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essen2-hs-6.jpeg",
           "description": ""
         },
         {
           "id": "1772340410720-aa57u8zeb",
+          "icon": "star",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "",
+          "imageUrl": "images/hotspots/essen2-hs-7.jpeg",
           "position": {
             "yaw": -25.444352679981268,
             "pitch": -10.004351672406905
-          },
-          "title": "",
-          "icon": "star",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essen2-hs-7.jpeg"
+          }
         },
         {
           "id": "1772340485489-5pjqxce3t",
+          "icon": "heart",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Valentinstag im La Piazza – Ein Abend für alle Sinne",
+          "imageUrl": "images/hotspots/essen2-hs-8.jpg",
           "position": {
             "yaw": -50.95661639520983,
             "pitch": -1.982302599286355
           },
-          "title": "Valentinstag im La Piazza – Ein Abend für alle Sinne",
-          "icon": "heart",
-          "color": "#f59e0b",
-          "description": "Feiern Sie den Valentinstag mit Genuss, Eleganz und ganz viel Liebe zum Detail.\nIm Restaurant La Piazza in Bremerhaven erwartet Sie ein Abend, der ganz im Zeichen von Zweisamkeit, feiner Küche und italienischer Leidenschaft steht…",
-          "imageUrl": "images/hotspots/essen2-hs-8.jpg"
+          "description": "Feiern Sie den Valentinstag mit Genuss, Eleganz und ganz viel Liebe zum Detail.\nIm Restaurant La Piazza in Bremerhaven erwartet Sie ein Abend, der ganz im Zeichen von Zweisamkeit, feiner Küche und italienischer Leidenschaft steht…"
         }
       ],
+      "imageUrl": "images/scenes/essen2.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
@@ -382,45 +381,45 @@
     {
       "id": "1772334934279-i68mu83gv",
       "name": "Essen2rein",
-      "imageUrl": "images/scenes/essen2rein.jpg",
       "hotspots": [
         {
           "id": "1772335292153-nx9dvyxj5",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Essen2",
           "position": {
             "yaw": 265.7657770515317,
             "pitch": -33.20000000000002
           },
-          "title": "Go to Essen2",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334931379-qupfim9w8"
         },
         {
           "id": "1772339120951-cpqzq5x5i",
+          "icon": "utensils",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Tatar vom Lachs, Mango und Avocado mit Riesengarnele",
+          "imageUrl": "images/hotspots/essen2rein-hs-1.jpeg",
           "position": {
             "yaw": -214.7398192694587,
             "pitch": -15.164790379182273
-          },
-          "title": "Tatar vom Lachs, Mango und Avocado mit Riesengarnele",
-          "icon": "utensils",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essen2rein-hs-1.jpeg"
+          }
         },
         {
           "id": "1772339536680-hkmympnl0",
+          "icon": "star",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "",
+          "imageUrl": "images/hotspots/essen2rein-hs-2.jpeg",
           "position": {
             "yaw": -55.45723528421246,
             "pitch": -14.573874021442599
-          },
-          "title": "",
-          "icon": "star",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essen2rein-hs-2.jpeg"
+          }
         }
       ],
+      "imageUrl": "images/scenes/essen2rein.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
@@ -429,58 +428,58 @@
     {
       "id": "1772334937434-2iaw7223e",
       "name": "Essen3",
-      "imageUrl": "images/scenes/essen3.jpg",
       "hotspots": [
         {
           "id": "1772335336419-0iv75drpd",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Essen2",
           "position": {
             "yaw": 221.59344774722675,
             "pitch": -27.48485042024042
           },
-          "title": "Go to Essen2",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334931379-qupfim9w8"
         },
         {
           "id": "1772335350715-qkecbmb7n",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Essen3rein",
           "position": {
             "yaw": -40.78816698306094,
             "pitch": -33.577277877527415
           },
-          "title": "Go to Essen3rein",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334922917-1132jr6uh"
         },
         {
           "id": "1772335362834-my8x64lyx",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to EssenEnde",
           "position": {
             "yaw": 54.22458676571482,
             "pitch": -35.53602892510551
           },
-          "title": "Go to EssenEnde",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334925677-h6xl2te2w"
         },
         {
           "id": "1772338911293-ysp4kdtlo",
+          "icon": "eye",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
+          "imageUrl": "images/hotspots/essen3-hs-3.jpeg",
           "position": {
             "yaw": 195.2848084744721,
             "pitch": 13.615407658996668
           },
-          "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
-          "icon": "eye",
-          "color": "#f59e0b",
-          "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profilhttps://www.instagram.com/la_piazza_bremerhaven/\n👉 Zum Facebook-Profil https://www.facebook.com/lapiazzabremerhaven/?locale=de_DE\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven.",
-          "imageUrl": "images/hotspots/essen3-hs-3.jpeg"
+          "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profilhttps://www.instagram.com/la_piazza_bremerhaven/\n👉 Zum Facebook-Profil https://www.facebook.com/lapiazzabremerhaven/?locale=de_DE\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven."
         }
       ],
+      "imageUrl": "images/scenes/essen3.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
@@ -489,111 +488,111 @@
     {
       "id": "1772334941088-qop1tk2xb",
       "name": "Essen1",
-      "imageUrl": "images/scenes/essen1.jpg",
       "hotspots": [
         {
           "id": "1772335211932-vykvkimmx",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Drinnen",
           "position": {
             "yaw": -207.64663684263357,
             "pitch": -25.414413267177135
           },
-          "title": "Go to Drinnen",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334920245-5slqt3z59"
         },
         {
           "id": "1772335223917-9x9qmqjhy",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Essen2",
           "position": {
             "yaw": 58.91250126468313,
             "pitch": -33.609260000891005
           },
-          "title": "Go to Essen2",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334931379-qupfim9w8"
         },
         {
           "id": "1772337507371-zxt14uqzj",
+          "icon": "chef",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "CHEF Regji",
+          "imageUrl": "images/hotspots/essen1-hs-2.jpeg",
           "position": {
             "yaw": -222.73283537377907,
             "pitch": 1.4901369487683591
           },
-          "title": "CHEF Regji",
-          "icon": "chef",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essen1-hs-2.jpeg",
           "description": "DAS Gesicht von La Piazza – Inhaber, Küchenchef und Gastgeber mit Herz. Seine Küche steht für echte italienische Lebensfreude. Wer ihn kennt, weiß: Regii ist immer gut gelaunt und verabschiedet seine Gäste mit einem herzlichen „A domani!“ – bis morgen."
         },
         {
           "id": "1772337779174-0p98zr9sy",
+          "icon": "utensils",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "spaghetti pomodoro mit burrata",
+          "imageUrl": "images/hotspots/essen1-hs-3.jpeg",
           "position": {
             "yaw": 202.067648538145,
             "pitch": -16.652327601499728
           },
-          "title": "spaghetti pomodoro mit burrata",
-          "icon": "utensils",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/essen1-hs-3.jpeg",
           "description": "Unsere hausgemachte Tomatensauce aus sonnengereiften San-Marzano-Tomaten trifft auf Pasta al dente und frisches Basilikum. Das Highlight: Eine cremige Burrata aus Apulien, die auf den heißen Spaghetti zergeht und für ein unvergleichlich sanftes Finish sorgt."
         },
         {
           "id": "1772337937325-rt2v3p900",
+          "icon": "menu",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "📖 Unsere Speisekarte",
+          "imageUrl": "images/hotspots/essen1-hs-4.jpeg",
           "position": {
             "yaw": -276.98344635696736,
             "pitch": -11.668248762904787
           },
-          "title": "📖 Unsere Speisekarte",
-          "icon": "menu",
-          "color": "#f59e0b",
-          "description": "Entdecken Sie unsere aktuellen italienischen Spezialitäten –\nvon frischer Pasta über knusprige Pizza bis hin zu feinen Fleisch- und Fischgerichten.\n\n👉 Hier klicken, um unsere Speisekarte zu sehenhttps://lapiazza-bremerhaven.de/menu/\n\nWir freuen uns darauf, Sie kulinarisch zu verwöhnen! 🇮🇹",
-          "imageUrl": "images/hotspots/essen1-hs-4.jpeg"
+          "description": "Entdecken Sie unsere aktuellen italienischen Spezialitäten –\nvon frischer Pasta über knusprige Pizza bis hin zu feinen Fleisch- und Fischgerichten.\n\n👉 Hier klicken, um unsere Speisekarte zu sehenhttps://lapiazza-bremerhaven.de/menu/\n\nWir freuen uns darauf, Sie kulinarisch zu verwöhnen! 🇮🇹"
         },
         {
           "id": "1772339659451-hujnalb26",
+          "icon": "star",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "La Piazza – Ihre exklusive Eventlocation in Bremerhaven",
+          "imageUrl": "images/hotspots/essen1-hs-5.jpeg",
           "position": {
             "yaw": 70.39999999999998,
             "pitch": -0.4840340054937676
           },
-          "title": "La Piazza – Ihre exklusive Eventlocation in Bremerhaven",
-          "icon": "star",
-          "color": "#f59e0b",
-          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza.",
-          "imageUrl": "images/hotspots/essen1-hs-5.jpeg"
+          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza."
         },
         {
           "id": "1772339813920-75c5n0bed",
+          "icon": "map-pin",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
+          "imageUrl": "images/hotspots/essen1-hs-6.jpeg",
           "position": {
             "yaw": 56.103555363017016,
             "pitch": 3.290771020660291
           },
-          "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
-          "icon": "map-pin",
-          "color": "#f59e0b",
-          "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profil\n👉 Zum Facebook-Profil\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven.",
-          "imageUrl": "images/hotspots/essen1-hs-6.jpeg"
+          "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profil\n👉 Zum Facebook-Profil\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven."
         },
         {
           "id": "1772340449803-qdd9rmz9a",
+          "icon": "heart",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Valentinstag im La Piazza – Ein Abend für alle Sinne",
+          "imageUrl": "images/hotspots/essen1-hs-7.jpg",
           "position": {
             "yaw": -68.68301203272756,
             "pitch": -5.200568504973858
           },
-          "title": "Valentinstag im La Piazza – Ein Abend für alle Sinne",
-          "icon": "heart",
-          "color": "#f59e0b",
-          "description": "Feiern Sie den Valentinstag mit Genuss, Eleganz und ganz viel Liebe zum Detail.\nIm Restaurant La Piazza in Bremerhaven erwartet Sie ein Abend, der ganz im Zeichen von Zweisamkeit, feiner Küche und italienischer Leidenschaft steht…",
-          "imageUrl": "images/hotspots/essen1-hs-7.jpg"
+          "description": "Feiern Sie den Valentinstag mit Genuss, Eleganz und ganz viel Liebe zum Detail.\nIm Restaurant La Piazza in Bremerhaven erwartet Sie ein Abend, der ganz im Zeichen von Zweisamkeit, feiner Küche und italienischer Leidenschaft steht…"
         }
       ],
+      "imageUrl": "images/scenes/essen1.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
@@ -602,33 +601,33 @@
     {
       "id": "1772334944161-nw83tfow2",
       "name": "Hinten",
-      "imageUrl": "images/scenes/hinten.jpg",
       "hotspots": [
         {
           "id": "1772335163259-0ahhjbjui",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to EssenHinten",
           "position": {
             "yaw": 206.1991861707174,
             "pitch": -31.581068993930373
           },
-          "title": "Go to EssenHinten",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334928539-ot200qqcy"
         },
         {
           "id": "1772340697053-di7g0lcfh",
+          "icon": "star",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "",
+          "imageUrl": "images/hotspots/hinten-hs-1.jpeg",
           "position": {
             "yaw": -209.13332323462842,
             "pitch": -13.210994877430867
-          },
-          "title": "",
-          "icon": "star",
-          "color": "#f59e0b",
-          "imageUrl": "images/hotspots/hinten-hs-1.jpeg"
+          }
         }
       ],
+      "imageUrl": "images/scenes/hinten.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
@@ -637,39 +636,40 @@
     {
       "id": "1772334947440-had5gwyc3",
       "name": "Eingang",
-      "imageUrl": "images/scenes/eingang.jpg",
       "hotspots": [
         {
           "id": "1772335080098-2a8awcw7q",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Drinnen",
           "position": {
             "yaw": -91.31901749752939,
             "pitch": -4.500000000000014
           },
-          "title": "Go to Drinnen",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334920245-5slqt3z59"
         }
       ],
+      "imageUrl": "images/scenes/eingang.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
       }
     }
   ],
-  "startSceneId": "1772334947440-had5gwyc3",
-  "createdAt": "2026-03-01T03:14:57.874Z",
-  "updatedAt": "2026-03-01T04:56:56.109Z",
   "settings": {
     "autoRotate": false,
-    "autoRotateSpeed": 0.5,
-    "showMinimap": true,
-    "showSceneList": true,
-    "transitionDuration": 800,
     "defaultFov": 75,
     "controlType": "drag",
     "showCompass": true,
-    "backgroundColor": "#0a0a0a"
-  }
+    "showMinimap": true,
+    "showSceneList": true,
+    "autoRotateSpeed": 0.5,
+    "backgroundColor": "#0a0a0a",
+    "transitionDuration": 800
+  },
+  "createdAt": "2026-03-01T03:14:57.874Z",
+  "updatedAt": "2026-03-01T06:05:58.077Z",
+  "description": "An immersive 360 experience",
+  "startSceneId": "1772334947440-had5gwyc3"
 }
