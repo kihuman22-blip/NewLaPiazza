@@ -7,18 +7,6 @@
       "name": "Drinnen",
       "hotspots": [
         {
-          "id": "1772335100117-ehagbpq2z",
-          "icon": "arrow",
-          "type": "scene-link",
-          "color": "#4db8a4",
-          "title": "Go to Eingang",
-          "position": {
-            "yaw": 268.03319742757134,
-            "pitch": -13.008629778028785
-          },
-          "targetSceneId": "1772334947440-had5gwyc3"
-        },
-        {
           "id": "1772335121316-rfs7j5n74",
           "icon": "arrow",
           "type": "scene-link",
@@ -60,7 +48,7 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "Silvester im Restaurant La Piazza",
-          "imageUrl": "images/hotspots/drinnen-hs-4.jpeg",
+          "imageUrl": "images/hotspots/drinnen-hs-3.jpeg",
           "position": {
             "yaw": -228.37977607204814,
             "pitch": -5.180929678351356
@@ -73,11 +61,23 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "",
-          "imageUrl": "images/hotspots/drinnen-hs-5.jpeg",
+          "imageUrl": "images/hotspots/drinnen-hs-4.jpeg",
           "position": {
             "yaw": -35.5123787523538,
             "pitch": -4.758882358746955
           }
+        },
+        {
+          "id": "1772389959506-u6vc9ffjc",
+          "type": "scene-link",
+          "position": {
+            "yaw": 267.3688547032702,
+            "pitch": -12.47859524071398
+          },
+          "title": "Go to 20260301 190254 663",
+          "icon": "arrow",
+          "color": "#4db8a4",
+          "targetSceneId": "1772388617652-xfoqqj164"
         }
       ],
       "imageUrl": "images/scenes/drinnen.jpg",
@@ -240,7 +240,7 @@
           "icon": "utensils",
           "type": "image",
           "color": "#f59e0b",
-          "title": "Image",
+          "title": "",
           "imageUrl": "images/hotspots/essenhinten-hs-5.jpeg",
           "position": {
             "yaw": -197.25304142920612,
@@ -634,23 +634,23 @@
       }
     },
     {
-      "id": "1772334947440-had5gwyc3",
+      "id": "1772388617652-xfoqqj164",
       "name": "Eingang",
+      "imageUrl": "images/scenes/eingang.jpg",
       "hotspots": [
         {
-          "id": "1772335080098-2a8awcw7q",
-          "icon": "arrow",
+          "id": "1772389938619-qbyi7ocyx",
           "type": "scene-link",
-          "color": "#4db8a4",
-          "title": "Go to Drinnen",
           "position": {
-            "yaw": -91.31901749752939,
-            "pitch": -4.500000000000014
+            "yaw": -256.42893327970216,
+            "pitch": -6.571404289828321
           },
+          "title": "Go to Drinnen",
+          "icon": "arrow",
+          "color": "#4db8a4",
           "targetSceneId": "1772334920245-5slqt3z59"
         }
       ],
-      "imageUrl": "images/scenes/eingang.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
@@ -669,7 +669,7 @@
     "transitionDuration": 800
   },
   "createdAt": "2026-03-01T03:14:57.874Z",
-  "updatedAt": "2026-03-01T16:51:30.263Z",
+  "updatedAt": "2026-03-01T18:33:03.370Z",
   "description": "An immersive 360 experience",
-  "startSceneId": "1772334947440-had5gwyc3"
+  "startSceneId": "1772388617652-xfoqqj164"
 }
