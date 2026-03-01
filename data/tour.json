@@ -69,14 +69,14 @@
         },
         {
           "id": "1772389959506-u6vc9ffjc",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to 20260301 190254 663",
           "position": {
             "yaw": 267.3688547032702,
             "pitch": -12.47859524071398
           },
-          "title": "Go to 20260301 190254 663",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772388617652-xfoqqj164"
         }
       ],
@@ -636,21 +636,21 @@
     {
       "id": "1772388617652-xfoqqj164",
       "name": "Eingang",
-      "imageUrl": "images/scenes/eingang.jpg",
       "hotspots": [
         {
           "id": "1772389938619-qbyi7ocyx",
+          "icon": "arrow",
           "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Drinnen",
           "position": {
             "yaw": -256.42893327970216,
             "pitch": -6.571404289828321
           },
-          "title": "Go to Drinnen",
-          "icon": "arrow",
-          "color": "#4db8a4",
           "targetSceneId": "1772334920245-5slqt3z59"
         }
       ],
+      "imageUrl": "images/scenes/eingang.jpg",
       "initialViewDirection": {
         "yaw": 0,
         "pitch": 0
