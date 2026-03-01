@@ -521,8 +521,8 @@
           "title": "CHEF Regji",
           "imageUrl": "images/hotspots/essen1-hs-2.jpeg",
           "position": {
-            "yaw": -222.73283537377907,
-            "pitch": 1.4901369487683591
+            "yaw": -222.3828353737791,
+            "pitch": 2.5401369487683594
           },
           "description": "DAS Gesicht von La Piazza – Inhaber, Küchenchef und Gastgeber mit Herz. Seine Küche steht für echte italienische Lebensfreude. Wer ihn kennt, weiß: Regii ist immer gut gelaunt und verabschiedet seine Gäste mit einem herzlichen „A domani!“ – bis morgen."
         },
@@ -669,7 +669,7 @@
     "transitionDuration": 800
   },
   "createdAt": "2026-03-01T03:14:57.874Z",
-  "updatedAt": "2026-03-01T04:56:56.109Z",
+  "updatedAt": "2026-03-01T16:51:30.263Z",
   "description": "An immersive 360 experience",
   "startSceneId": "1772334947440-had5gwyc3"
 }
