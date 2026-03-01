@@ -545,12 +545,12 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "📖 Unsere Speisekarte",
+          "pdfUrl": "blob:http://localhost:3000/76c20142-f96f-4716-95bb-502d78a74914",
           "position": {
             "yaw": -276.98344635696736,
             "pitch": -11.668248762904787
           },
-          "description": "Impressionen aus unserer Küche\n\nEin kleiner Vorgeschmack auf unsere italienischen Spezialitäten:\n\nKnusprige Steinofenpizza, hausgemachte Pasta, frische Fischgerichte und verführerische Desserts – mit Liebe zubereitet und aus besten Zutaten.\n\n👉 Lassen Sie sich inspirieren und entdecken Sie die Vielfalt unserer Karte.\n\nBuon appetito! 🇮🇹",
-          "pdfUrl": "files/essen1-hs-4.pdf"
+          "description": "Impressionen aus unserer Küche\n\nEin kleiner Vorgeschmack auf unsere italienischen Spezialitäten:\n\nKnusprige Steinofenpizza, hausgemachte Pasta, frische Fischgerichte und verführerische Desserts – mit Liebe zubereitet und aus besten Zutaten.\n\n👉 Lassen Sie sich inspirieren und entdecken Sie die Vielfalt unserer Karte.\n\nBuon appetito! 🇮🇹"
         },
         {
           "id": "1772339659451-hujnalb26",
