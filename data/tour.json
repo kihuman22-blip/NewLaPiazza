@@ -545,12 +545,12 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "📖 Unsere Speisekarte",
-          "imageUrl": "images/hotspots/essen1-hs-4.jpeg",
           "position": {
             "yaw": -276.98344635696736,
             "pitch": -11.668248762904787
           },
-          "description": "Entdecken Sie unsere aktuellen italienischen Spezialitäten –\nvon frischer Pasta über knusprige Pizza bis hin zu feinen Fleisch- und Fischgerichten.\n\n👉 Hier klicken, um unsere Speisekarte zu sehenhttps://lapiazza-bremerhaven.de/menu/\n\nWir freuen uns darauf, Sie kulinarisch zu verwöhnen! 🇮🇹"
+          "description": "Impressionen aus unserer Küche\n\nEin kleiner Vorgeschmack auf unsere italienischen Spezialitäten:\n\nKnusprige Steinofenpizza, hausgemachte Pasta, frische Fischgerichte und verführerische Desserts – mit Liebe zubereitet und aus besten Zutaten.\n\n👉 Lassen Sie sich inspirieren und entdecken Sie die Vielfalt unserer Karte.\n\nBuon appetito! 🇮🇹",
+          "pdfUrl": "files/essen1-hs-4.pdf"
         },
         {
           "id": "1772339659451-hujnalb26",
@@ -669,7 +669,7 @@
     "transitionDuration": 800
   },
   "createdAt": "2026-03-01T03:14:57.874Z",
-  "updatedAt": "2026-03-01T18:33:03.370Z",
+  "updatedAt": "2026-03-01T20:05:33.046Z",
   "description": "An immersive 360 experience",
   "startSceneId": "1772388617652-xfoqqj164"
 }
