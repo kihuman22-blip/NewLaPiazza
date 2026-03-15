@@ -13,8 +13,8 @@
           "color": "#4db8a4",
           "title": "Go to EssenHinten",
           "position": {
-            "yaw": -245.45270035192664,
-            "pitch": -27.949999999999978
+            "yaw": -246.85270035192664,
+            "pitch": -27.24999999999998
           },
           "targetSceneId": "1772334928539-ot200qqcy"
         },
@@ -35,37 +35,15 @@
           "icon": "info",
           "type": "info",
           "color": "#f59e0b",
-          "title": "Information",
+          "title": "Willkommen im La Piazza",
           "position": {
             "yaw": 20.400000000000006,
             "pitch": -12.004752701530585
           },
-          "description": "🍽️ Tisch reservieren im La Piazza\n\nHier Klicken: ( https://widget.thefork.com/de/52f4e596-0c1b-4e16-b27b-76ed8dd85680?fbclid=PAZXh0bgNhZW0CMTEAAad2ozTRXHlXnZe3rbpp07-EHCH-Ysms3OwbdWCX_YomkWhVvDTWWUtRyFv8Bw_aem_sypDhJhDdpolCRT2bJKBaQ&utm_source=l.instagram.com&step=date )\n\nSichern Sie sich Ihren Lieblingsplatz ganz bequem:\n\n🌐 Online reservieren:\nÜber unsere Website – schnell und unkompliziert rund um die Uhr.\n\n📞 Telefonische Reservierung:\n0471 93141450\n\nWir freuen uns auf Ihren Besuch!"
-        },
-        {
-          "id": "1772340553013-3mg3h2g6q",
-          "icon": "eye",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "Silvester im Restaurant La Piazza",
-          "imageUrl": "images/hotspots/drinnen-hs-3.jpeg",
-          "position": {
-            "yaw": -228.37977607204814,
-            "pitch": -5.180929678351356
-          },
-          "description": "Ein Abend voller Eleganz, Vorfreude und glänzender Genussmomente.\nAm 31. Dezember feiern wir den Jahresausklang mit einem exklusiven 6-Gang-Silvestermenü, das italienische Raffinesse mit festlicher Kreativität verbindet.\nEin Menü wie ein Feuerwerk: funkelnd, duftend, überraschend – perfekt, um das alte Jahr stilvoll zu verabschieden und das neue mit Freude zu begrüßen…"
-        },
-        {
-          "id": "1772340976572-43recgdom",
-          "icon": "utensils",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "",
-          "imageUrl": "images/hotspots/drinnen-hs-4.jpeg",
-          "position": {
-            "yaw": -35.5123787523538,
-            "pitch": -4.758882358746955
-          }
+          "description": "Restaurant La Piazza\nHerzlich willkommen in unserem italienischen Restaurant im Herzen von Geestemünde in Bremerhaven.\nGenießen Sie original italienische Küche, frische Zutaten und mediterrane Gastfreundschaft.\n\n📍 Adresse:\nGrashoffstraße 7\n\n📞 Telefon:\n0471 93141450\n\n🌐 Website:\nwww.lapiazza-bremerhaven.de\n\n🕒 Öffnungszeiten:\nDienstag – Sonntag\n12:00 – 14:30 Uhr\n18:00 – 22:00 Uhr\n\nMontag Ruhetag\n\nWir freuen uns auf Ihren Besuch! 🇮🇹",
+          "images": [
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556307233-dzkrvy.jpeg"
+          ]
         },
         {
           "id": "1772389959506-u6vc9ffjc",
@@ -101,18 +79,6 @@
             "pitch": -29.588789252522893
           },
           "targetSceneId": "1772334937434-2iaw7223e"
-        },
-        {
-          "id": "1772340224054-jq4rjngkq",
-          "icon": "utensils",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "Tatar vom Lachs, Mango und Avocado mit Riesengarnele",
-          "imageUrl": "images/hotspots/essen3rein-hs-1.jpeg",
-          "position": {
-            "yaw": -87.88358394318941,
-            "pitch": -11.969850712045986
-          }
         }
       ],
       "imageUrl": "images/scenes/essen3rein.jpg",
@@ -138,24 +104,12 @@
           "targetSceneId": "1772334937434-2iaw7223e"
         },
         {
-          "id": "1772340265253-8cdf75pfm",
-          "icon": "star",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "",
-          "imageUrl": "images/hotspots/essenende-hs-1.jpeg",
-          "position": {
-            "yaw": 56.56476629402067,
-            "pitch": -14.732281340295863
-          }
-        },
-        {
           "id": "1772340335195-gi8hxs3ip",
           "icon": "map-pin",
           "type": "image",
           "color": "#f59e0b",
           "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
-          "imageUrl": "images/hotspots/essenende-hs-2.jpeg",
+          "imageUrl": "images/hotspots/essenende-hs-1.jpeg",
           "position": {
             "yaw": -187.72549879115488,
             "pitch": 6.253054897484837
@@ -198,54 +152,17 @@
           "targetSceneId": "1772334944161-nw83tfow2"
         },
         {
-          "id": "1772340607056-cumekvyrd",
-          "icon": "utensils",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "Tatar vom arg. rinderfilet",
-          "imageUrl": "images/hotspots/essenhinten-hs-2.jpeg",
-          "position": {
-            "yaw": 47.55967563158339,
-            "pitch": -10.38039149895476
-          }
-        },
-        {
-          "id": "1772340740376-ju6blronz",
-          "icon": "eye",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "Silvester im Restaurant La Piazza",
-          "imageUrl": "images/hotspots/essenhinten-hs-3.jpeg",
-          "position": {
-            "yaw": -50.09782956720068,
-            "pitch": -7.625113931426264
-          },
-          "description": "Ein Abend voller Eleganz, Vorfreude und glänzender Genussmomente.\nAm 31. Dezember feiern wir den Jahresausklang mit einem exklusiven 6-Gang-Silvestermenü, das italienische Raffinesse mit festlicher Kreativität verbindet.\nEin Menü wie ein Feuerwerk: funkelnd, duftend, überraschend – perfekt, um das alte Jahr stilvoll zu verabschieden und das neue mit Freude zu begrüßen…"
-        },
-        {
           "id": "1772340795234-bwwt0lr8s",
           "icon": "menu",
           "type": "image",
           "color": "#f59e0b",
           "title": "📖 Unsere Speisekarte",
-          "imageUrl": "images/hotspots/essenhinten-hs-4.jpeg",
+          "imageUrl": "images/hotspots/essenhinten-hs-2.jpeg",
           "position": {
             "yaw": -250.89294757628787,
             "pitch": -2.523097705163186
           },
           "description": "Entdecken Sie unsere aktuellen italienischen Spezialitäten –\nvon frischer Pasta über knusprige Pizza bis hin zu feinen Fleisch- und Fischgerichten.\n\n👉 Hier klicken, um unsere Speisekarte zu öffnen https://lapiazza-bremerhaven.de/menu/\n\nWir freuen uns darauf, Sie kulinarisch zu verwöhnen! 🇮🇹"
-        },
-        {
-          "id": "1772340932442-x145dtok0",
-          "icon": "utensils",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "",
-          "imageUrl": "images/hotspots/essenhinten-hs-5.jpeg",
-          "position": {
-            "yaw": -197.25304142920612,
-            "pitch": -6.932376175085301
-          }
         }
       ],
       "imageUrl": "images/scenes/essenhinten.jpg",
@@ -318,7 +235,16 @@
             "yaw": -191.06221834965348,
             "pitch": 3.0826198223650327
           },
-          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza."
+          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza.",
+          "images": [
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557799982-r9hiyo.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557802982-h6wbc4.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557808221-eb4nnf.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557810717-rltd7w.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557813112-15zal7.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557815098-vlz77c.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557820732-znfgtl.jpg"
+          ]
         },
         {
           "id": "1772339982900-495yt8h02",
@@ -332,44 +258,6 @@
             "pitch": 12.369562736431801
           },
           "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profilhttps://www.instagram.com/la_piazza_bremerhaven/\n👉 Zum Facebook-Profilhttps://www.facebook.com/lapiazzabremerhaven/?locale=de_DE\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven."
-        },
-        {
-          "id": "1772340081545-7pdjrinpc",
-          "icon": "utensils",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "tagliolini mit Pfifferlingen und trüffel",
-          "imageUrl": "images/hotspots/essen2-hs-6.jpeg",
-          "position": {
-            "yaw": 66.01396824822997,
-            "pitch": -16.054375589898594
-          },
-          "description": ""
-        },
-        {
-          "id": "1772340410720-aa57u8zeb",
-          "icon": "star",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "",
-          "imageUrl": "images/hotspots/essen2-hs-7.jpeg",
-          "position": {
-            "yaw": -25.444352679981268,
-            "pitch": -10.004351672406905
-          }
-        },
-        {
-          "id": "1772340485489-5pjqxce3t",
-          "icon": "heart",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "Valentinstag im La Piazza – Ein Abend für alle Sinne",
-          "imageUrl": "images/hotspots/essen2-hs-8.jpg",
-          "position": {
-            "yaw": -50.95661639520983,
-            "pitch": -1.982302599286355
-          },
-          "description": "Feiern Sie den Valentinstag mit Genuss, Eleganz und ganz viel Liebe zum Detail.\nIm Restaurant La Piazza in Bremerhaven erwartet Sie ein Abend, der ganz im Zeichen von Zweisamkeit, feiner Küche und italienischer Leidenschaft steht…"
         }
       ],
       "imageUrl": "images/scenes/essen2.jpg",
@@ -393,30 +281,6 @@
             "pitch": -33.20000000000002
           },
           "targetSceneId": "1772334931379-qupfim9w8"
-        },
-        {
-          "id": "1772339120951-cpqzq5x5i",
-          "icon": "utensils",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "Tatar vom Lachs, Mango und Avocado mit Riesengarnele",
-          "imageUrl": "images/hotspots/essen2rein-hs-1.jpeg",
-          "position": {
-            "yaw": -214.7398192694587,
-            "pitch": -15.164790379182273
-          }
-        },
-        {
-          "id": "1772339536680-hkmympnl0",
-          "icon": "star",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "",
-          "imageUrl": "images/hotspots/essen2rein-hs-2.jpeg",
-          "position": {
-            "yaw": -55.45723528421246,
-            "pitch": -14.573874021442599
-          }
         }
       ],
       "imageUrl": "images/scenes/essen2rein.jpg",
@@ -514,38 +378,12 @@
           "targetSceneId": "1772334931379-qupfim9w8"
         },
         {
-          "id": "1772337507371-zxt14uqzj",
-          "icon": "chef",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "CHEF Regji",
-          "imageUrl": "images/hotspots/essen1-hs-2.jpeg",
-          "position": {
-            "yaw": -222.3828353737791,
-            "pitch": 2.5401369487683594
-          },
-          "description": "DAS Gesicht von La Piazza – Inhaber, Küchenchef und Gastgeber mit Herz. Seine Küche steht für echte italienische Lebensfreude. Wer ihn kennt, weiß: Regii ist immer gut gelaunt und verabschiedet seine Gäste mit einem herzlichen „A domani!“ – bis morgen."
-        },
-        {
-          "id": "1772337779174-0p98zr9sy",
-          "icon": "utensils",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "spaghetti pomodoro mit burrata",
-          "imageUrl": "images/hotspots/essen1-hs-3.jpeg",
-          "position": {
-            "yaw": 202.067648538145,
-            "pitch": -16.652327601499728
-          },
-          "description": "Unsere hausgemachte Tomatensauce aus sonnengereiften San-Marzano-Tomaten trifft auf Pasta al dente und frisches Basilikum. Das Highlight: Eine cremige Burrata aus Apulien, die auf den heißen Spaghetti zergeht und für ein unvergleichlich sanftes Finish sorgt."
-        },
-        {
           "id": "1772337937325-rt2v3p900",
           "icon": "menu",
           "type": "image",
           "color": "#f59e0b",
           "title": "📖 Unsere Speisekarte",
-          "pdfUrl": "blob:http://localhost:3000/76c20142-f96f-4716-95bb-502d78a74914",
+          "pdfUrl": "files/essen1-hs-2.pdf",
           "position": {
             "yaw": -276.98344635696736,
             "pitch": -11.668248762904787
@@ -558,12 +396,21 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "La Piazza – Ihre exklusive Eventlocation in Bremerhaven",
-          "imageUrl": "images/hotspots/essen1-hs-5.jpeg",
+          "imageUrl": "images/hotspots/essen1-hs-3.jpeg",
           "position": {
             "yaw": 70.39999999999998,
             "pitch": -0.4840340054937676
           },
-          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza."
+          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza.",
+          "images": [
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557282144-lpf0lz.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557284655-2i9fk8.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557287068-7vxh6r.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557290166-kjl0n5.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557293205-sm4vsm.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557295900-4o2e7h.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557318317-ib50kt.jpg"
+          ]
         },
         {
           "id": "1772339813920-75c5n0bed",
@@ -571,25 +418,48 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
-          "imageUrl": "images/hotspots/essen1-hs-6.jpeg",
+          "imageUrl": "images/hotspots/essen1-hs-4.jpeg",
           "position": {
             "yaw": 56.103555363017016,
             "pitch": 3.290771020660291
           },
-          "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profil\n👉 Zum Facebook-Profil\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven."
+          "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profil https://www.instagram.com/la_piazza_bremerhaven?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\n👉 Zum Facebook-Profil https://www.facebook.com/lapiazzabremerhaven/?locale=de_DE\n\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven."
         },
         {
-          "id": "1772340449803-qdd9rmz9a",
-          "icon": "heart",
+          "id": "1773556552060-861a9zicm",
           "type": "image",
-          "color": "#f59e0b",
-          "title": "Valentinstag im La Piazza – Ein Abend für alle Sinne",
-          "imageUrl": "images/hotspots/essen1-hs-7.jpg",
           "position": {
-            "yaw": -68.68301203272756,
-            "pitch": -5.200568504973858
+            "yaw": -243.62349575630947,
+            "pitch": -3.7783096421825557
           },
-          "description": "Feiern Sie den Valentinstag mit Genuss, Eleganz und ganz viel Liebe zum Detail.\nIm Restaurant La Piazza in Bremerhaven erwartet Sie ein Abend, der ganz im Zeichen von Zweisamkeit, feiner Küche und italienischer Leidenschaft steht…"
+          "title": "Impressionen aus unserer Küche",
+          "icon": "chef",
+          "color": "#f59e0b",
+          "description": "Ein kleiner Vorgeschmack auf unsere italienischen Spezialitäten:\n\nKnusprige Steinofenpizza, hausgemachte Pasta, frische Fischgerichte und verführerische Desserts – mit Liebe zubereitet und aus besten Zutaten.\n\n👉 Lassen Sie sich inspirieren und entdecken Sie die Vielfalt unserer Karte.\n\nBuon appetito! 🇮🇹",
+          "images": [
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556959427-rvkmdy.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556961884-pb38su.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556964199-j9ck0c.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556969021-8xzy0q.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556977572-2r8nwe.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556981082-agbkx7.jpeg",
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556986915-tjaxdb.jpeg"
+          ]
+        },
+        {
+          "id": "1773557122144-lrzfhx33u",
+          "type": "image",
+          "position": {
+            "yaw": -222.01028239117795,
+            "pitch": 3.8025449069777046
+          },
+          "title": "🍽️ Tisch reservieren im La Piazza",
+          "icon": "map-pin",
+          "color": "#f59e0b",
+          "description": "Hier Klicken: ( https://widget.thefork.com/de/52f4e596-0c1b-4e16-b27b-76ed8dd85680?fbclid=PAZXh0bgNhZW0CMTEAAad2ozTRXHlXnZe3rbpp07-EHCH-Ysms3OwbdWCX_YomkWhVvDTWWUtRyFv8Bw_aem_sypDhJhDdpolCRT2bJKBaQ&utm_source=l.instagram.com&step=date )\n\nSichern Sie sich Ihren Lieblingsplatz ganz bequem:\n\n\n🌐 Online reservieren:\nÜber unsere Website – schnell und unkompliziert rund um die Uhr.\n\n📞 Telefonische Reservierung:\n0471 93141450\n\nWir freuen uns auf Ihren Besuch! 🇮🇹",
+          "images": [
+            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557160634-f0l9eq.jpeg"
+          ]
         }
       ],
       "imageUrl": "images/scenes/essen1.jpg",
@@ -613,18 +483,6 @@
             "pitch": -31.581068993930373
           },
           "targetSceneId": "1772334928539-ot200qqcy"
-        },
-        {
-          "id": "1772340697053-di7g0lcfh",
-          "icon": "star",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "",
-          "imageUrl": "images/hotspots/hinten-hs-1.jpeg",
-          "position": {
-            "yaw": -209.13332323462842,
-            "pitch": -13.210994877430867
-          }
         }
       ],
       "imageUrl": "images/scenes/hinten.jpg",
@@ -669,7 +527,7 @@
     "transitionDuration": 800
   },
   "createdAt": "2026-03-01T03:14:57.874Z",
-  "updatedAt": "2026-03-01T20:05:33.046Z",
+  "updatedAt": "2026-03-15T06:57:55.551Z",
   "description": "An immersive 360 experience",
   "startSceneId": "1772388617652-xfoqqj164"
 }

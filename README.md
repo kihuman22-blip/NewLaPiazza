@@ -19,15 +19,15 @@ Upload these files to any static hosting service (Netlify, Vercel, etc.) - no se
 ## Tour Contents
 
 **Scenes:**
-1. **Drinnen** - 6 hotspot(s)
-2. **Essen3rein** - 2 hotspot(s)
-3. **EssenEnde** - 3 hotspot(s)
-4. **EssenHinten** - 6 hotspot(s)
-5. **Essen2** - 9 hotspot(s)
-6. **Essen2rein** - 3 hotspot(s)
+1. **Drinnen** - 4 hotspot(s)
+2. **Essen3rein** - 1 hotspot(s)
+3. **EssenEnde** - 2 hotspot(s)
+4. **EssenHinten** - 3 hotspot(s)
+5. **Essen2** - 6 hotspot(s)
+6. **Essen2rein** - 1 hotspot(s)
 7. **Essen3** - 4 hotspot(s)
-8. **Essen1** - 8 hotspot(s)
-9. **Hinten** - 2 hotspot(s)
+8. **Essen1** - 7 hotspot(s)
+9. **Hinten** - 1 hotspot(s)
 10. **Eingang** - 1 hotspot(s)
 
 ## Files
