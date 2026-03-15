@@ -36,14 +36,14 @@
           "type": "info",
           "color": "#f59e0b",
           "title": "Willkommen im La Piazza",
+          "images": [
+            "images/hotspots/drinnen-hs-2-img-0.jpeg"
+          ],
           "position": {
             "yaw": 20.400000000000006,
             "pitch": -12.004752701530585
           },
-          "description": "Restaurant La Piazza\nHerzlich willkommen in unserem italienischen Restaurant im Herzen von Geestemünde in Bremerhaven.\nGenießen Sie original italienische Küche, frische Zutaten und mediterrane Gastfreundschaft.\n\n📍 Adresse:\nGrashoffstraße 7\n\n📞 Telefon:\n0471 93141450\n\n🌐 Website:\nwww.lapiazza-bremerhaven.de\n\n🕒 Öffnungszeiten:\nDienstag – Sonntag\n12:00 – 14:30 Uhr\n18:00 – 22:00 Uhr\n\nMontag Ruhetag\n\nWir freuen uns auf Ihren Besuch! 🇮🇹",
-          "images": [
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556307233-dzkrvy.jpeg"
-          ]
+          "description": "Restaurant La Piazza\nHerzlich willkommen in unserem italienischen Restaurant im Herzen von Geestemünde in Bremerhaven.\nGenießen Sie original italienische Küche, frische Zutaten und mediterrane Gastfreundschaft.\n\n📍 Adresse:\nGrashoffstraße 7\n\n📞 Telefon:\n0471 93141450\n\n🌐 Website:\nwww.lapiazza-bremerhaven.de\n\n🕒 Öffnungszeiten:\nDienstag – Sonntag\n12:00 – 14:30 Uhr\n18:00 – 22:00 Uhr\n\nMontag Ruhetag\n\nWir freuen uns auf Ihren Besuch! 🇮🇹"
         },
         {
           "id": "1772389959506-u6vc9ffjc",
@@ -109,7 +109,7 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
-          "imageUrl": "images/hotspots/essenende-hs-1.jpeg",
+          "imageUrl": "images/hotspots/essenende-hs-1.jpg",
           "position": {
             "yaw": -187.72549879115488,
             "pitch": 6.253054897484837
@@ -157,7 +157,7 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "📖 Unsere Speisekarte",
-          "imageUrl": "images/hotspots/essenhinten-hs-2.jpeg",
+          "imageUrl": "images/hotspots/essenhinten-hs-2.jpg",
           "position": {
             "yaw": -250.89294757628787,
             "pitch": -2.523097705163186
@@ -217,7 +217,7 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "📖 Unsere Speisekarte",
-          "imageUrl": "images/hotspots/essen2-hs-3.jpeg",
+          "imageUrl": "images/hotspots/essen2-hs-3.jpg",
           "position": {
             "yaw": 232.28948271532641,
             "pitch": -13.92058717246507
@@ -230,21 +230,21 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "La Piazza – Ihre exklusive Eventlocation in Bremerhaven",
-          "imageUrl": "images/hotspots/essen2-hs-4.jpeg",
+          "images": [
+            "images/hotspots/essen2-hs-4-img-0.jpeg",
+            "images/hotspots/essen2-hs-4-img-1.jpeg",
+            "images/hotspots/essen2-hs-4-img-2.jpeg",
+            "images/hotspots/essen2-hs-4-img-3.jpeg",
+            "images/hotspots/essen2-hs-4-img-4.jpeg",
+            "images/hotspots/essen2-hs-4-img-5.jpeg",
+            "images/hotspots/essen2-hs-4-img-6.jpg"
+          ],
+          "imageUrl": "images/hotspots/essen2-hs-4.jpg",
           "position": {
             "yaw": -191.06221834965348,
             "pitch": 3.0826198223650327
           },
-          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza.",
-          "images": [
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557799982-r9hiyo.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557802982-h6wbc4.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557808221-eb4nnf.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557810717-rltd7w.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557813112-15zal7.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557815098-vlz77c.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557820732-znfgtl.jpg"
-          ]
+          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza."
         },
         {
           "id": "1772339982900-495yt8h02",
@@ -252,7 +252,7 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
-          "imageUrl": "images/hotspots/essen2-hs-5.jpeg",
+          "imageUrl": "images/hotspots/essen2-hs-5.jpg",
           "position": {
             "yaw": -241.70993950204902,
             "pitch": 12.369562736431801
@@ -335,7 +335,7 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
-          "imageUrl": "images/hotspots/essen3-hs-3.jpeg",
+          "imageUrl": "images/hotspots/essen3-hs-3.jpg",
           "position": {
             "yaw": 195.2848084744721,
             "pitch": 13.615407658996668
@@ -396,21 +396,21 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "La Piazza – Ihre exklusive Eventlocation in Bremerhaven",
-          "imageUrl": "images/hotspots/essen1-hs-3.jpeg",
+          "images": [
+            "images/hotspots/essen1-hs-3-img-0.jpeg",
+            "images/hotspots/essen1-hs-3-img-1.jpeg",
+            "images/hotspots/essen1-hs-3-img-2.jpeg",
+            "images/hotspots/essen1-hs-3-img-3.jpeg",
+            "images/hotspots/essen1-hs-3-img-4.jpeg",
+            "images/hotspots/essen1-hs-3-img-5.jpeg",
+            "images/hotspots/essen1-hs-3-img-6.jpg"
+          ],
+          "imageUrl": "images/hotspots/essen1-hs-3.jpg",
           "position": {
             "yaw": 70.39999999999998,
             "pitch": -0.4840340054937676
           },
-          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza.",
-          "images": [
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557282144-lpf0lz.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557284655-2i9fk8.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557287068-7vxh6r.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557290166-kjl0n5.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557293205-sm4vsm.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557295900-4o2e7h.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557318317-ib50kt.jpg"
-          ]
+          "description": "Ob stilvoller Geburtstag, unvergessliche Hochzeit, Firmenfeier oder Jubiläum –\nLa Piazza bietet Ihnen den perfekten Rahmen für besondere Momente.\n\nIn elegantem, mediterranem Ambiente empfangen wir Sie und Ihre Gäste mit echter italienischer Gastfreundschaft, Liebe zum Detail und einer Küche, die begeistert. Von raffinierten Antipasti-Buffets über individuell komponierte Menüs bis hin zu exklusiven Weinbegleitungen – jedes Event wird bei uns maßgeschneidert geplant.\n\n✨ Exklusive Buchung des gesamten Restaurants möglich\n✨ Individuelle Menü- oder Buffetgestaltung\n✨ Persönliche Beratung & professionelle Planung\n✨ Auf Wunsch mit Weinbegleitung & Aperitivo-Empfang\n\nOb im kleinen, intimen Kreis oder mit größerer Gesellschaft – wir kümmern uns um alles, damit Sie sich entspannt Ihren Gästen widmen können.\n\nFeiern Sie italienisch. Feiern Sie besonders. Feiern Sie im La Piazza."
         },
         {
           "id": "1772339813920-75c5n0bed",
@@ -418,7 +418,7 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
-          "imageUrl": "images/hotspots/essen1-hs-4.jpeg",
+          "imageUrl": "images/hotspots/essen1-hs-4.jpg",
           "position": {
             "yaw": 56.103555363017016,
             "pitch": 3.290771020660291
@@ -427,39 +427,39 @@
         },
         {
           "id": "1773556552060-861a9zicm",
+          "icon": "chef",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "Impressionen aus unserer Küche",
+          "images": [
+            "images/hotspots/essen1-hs-5-img-0.jpeg",
+            "images/hotspots/essen1-hs-5-img-1.jpeg",
+            "images/hotspots/essen1-hs-5-img-2.jpeg",
+            "images/hotspots/essen1-hs-5-img-3.jpeg",
+            "images/hotspots/essen1-hs-5-img-4.jpeg",
+            "images/hotspots/essen1-hs-5-img-5.jpeg",
+            "images/hotspots/essen1-hs-5-img-6.jpeg"
+          ],
           "position": {
             "yaw": -243.62349575630947,
             "pitch": -3.7783096421825557
           },
-          "title": "Impressionen aus unserer Küche",
-          "icon": "chef",
-          "color": "#f59e0b",
-          "description": "Ein kleiner Vorgeschmack auf unsere italienischen Spezialitäten:\n\nKnusprige Steinofenpizza, hausgemachte Pasta, frische Fischgerichte und verführerische Desserts – mit Liebe zubereitet und aus besten Zutaten.\n\n👉 Lassen Sie sich inspirieren und entdecken Sie die Vielfalt unserer Karte.\n\nBuon appetito! 🇮🇹",
-          "images": [
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556959427-rvkmdy.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556961884-pb38su.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556964199-j9ck0c.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556969021-8xzy0q.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556977572-2r8nwe.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556981082-agbkx7.jpeg",
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773556986915-tjaxdb.jpeg"
-          ]
+          "description": "Ein kleiner Vorgeschmack auf unsere italienischen Spezialitäten:\n\nKnusprige Steinofenpizza, hausgemachte Pasta, frische Fischgerichte und verführerische Desserts – mit Liebe zubereitet und aus besten Zutaten.\n\n👉 Lassen Sie sich inspirieren und entdecken Sie die Vielfalt unserer Karte.\n\nBuon appetito! 🇮🇹"
         },
         {
           "id": "1773557122144-lrzfhx33u",
+          "icon": "map-pin",
           "type": "image",
+          "color": "#f59e0b",
+          "title": "🍽️ Tisch reservieren im La Piazza",
+          "images": [
+            "images/hotspots/essen1-hs-6-img-0.jpeg"
+          ],
           "position": {
             "yaw": -222.01028239117795,
             "pitch": 3.8025449069777046
           },
-          "title": "🍽️ Tisch reservieren im La Piazza",
-          "icon": "map-pin",
-          "color": "#f59e0b",
-          "description": "Hier Klicken: ( https://widget.thefork.com/de/52f4e596-0c1b-4e16-b27b-76ed8dd85680?fbclid=PAZXh0bgNhZW0CMTEAAad2ozTRXHlXnZe3rbpp07-EHCH-Ysms3OwbdWCX_YomkWhVvDTWWUtRyFv8Bw_aem_sypDhJhDdpolCRT2bJKBaQ&utm_source=l.instagram.com&step=date )\n\nSichern Sie sich Ihren Lieblingsplatz ganz bequem:\n\n\n🌐 Online reservieren:\nÜber unsere Website – schnell und unkompliziert rund um die Uhr.\n\n📞 Telefonische Reservierung:\n0471 93141450\n\nWir freuen uns auf Ihren Besuch! 🇮🇹",
-          "images": [
-            "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/697ef0e8-20ab-44d1-81ca-a04339784b97/hotspots/1773557160634-f0l9eq.jpeg"
-          ]
+          "description": "Hier Klicken: ( https://widget.thefork.com/de/52f4e596-0c1b-4e16-b27b-76ed8dd85680?fbclid=PAZXh0bgNhZW0CMTEAAad2ozTRXHlXnZe3rbpp07-EHCH-Ysms3OwbdWCX_YomkWhVvDTWWUtRyFv8Bw_aem_sypDhJhDdpolCRT2bJKBaQ&utm_source=l.instagram.com&step=date )\n\nSichern Sie sich Ihren Lieblingsplatz ganz bequem:\n\n\n🌐 Online reservieren:\nÜber unsere Website – schnell und unkompliziert rund um die Uhr.\n\n📞 Telefonische Reservierung:\n0471 93141450\n\nWir freuen uns auf Ihren Besuch! 🇮🇹"
         }
       ],
       "imageUrl": "images/scenes/essen1.jpg",
