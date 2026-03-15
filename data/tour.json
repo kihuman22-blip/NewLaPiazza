@@ -37,7 +37,7 @@
           "color": "#f59e0b",
           "title": "Willkommen im La Piazza",
           "images": [
-            "images/hotspots/drinnen-hs-2-img-0.jpeg"
+            "images/hotspots/drinnen-hs-2-img-0.jpg"
           ],
           "position": {
             "yaw": 20.400000000000006,
@@ -231,12 +231,12 @@
           "color": "#f59e0b",
           "title": "La Piazza – Ihre exklusive Eventlocation in Bremerhaven",
           "images": [
-            "images/hotspots/essen2-hs-4-img-0.jpeg",
-            "images/hotspots/essen2-hs-4-img-1.jpeg",
-            "images/hotspots/essen2-hs-4-img-2.jpeg",
-            "images/hotspots/essen2-hs-4-img-3.jpeg",
-            "images/hotspots/essen2-hs-4-img-4.jpeg",
-            "images/hotspots/essen2-hs-4-img-5.jpeg",
+            "images/hotspots/essen2-hs-4-img-0.jpg",
+            "images/hotspots/essen2-hs-4-img-1.jpg",
+            "images/hotspots/essen2-hs-4-img-2.jpg",
+            "images/hotspots/essen2-hs-4-img-3.jpg",
+            "images/hotspots/essen2-hs-4-img-4.jpg",
+            "images/hotspots/essen2-hs-4-img-5.jpg",
             "images/hotspots/essen2-hs-4-img-6.jpg"
           ],
           "imageUrl": "images/hotspots/essen2-hs-4.jpg",
@@ -397,12 +397,12 @@
           "color": "#f59e0b",
           "title": "La Piazza – Ihre exklusive Eventlocation in Bremerhaven",
           "images": [
-            "images/hotspots/essen1-hs-3-img-0.jpeg",
-            "images/hotspots/essen1-hs-3-img-1.jpeg",
-            "images/hotspots/essen1-hs-3-img-2.jpeg",
-            "images/hotspots/essen1-hs-3-img-3.jpeg",
-            "images/hotspots/essen1-hs-3-img-4.jpeg",
-            "images/hotspots/essen1-hs-3-img-5.jpeg",
+            "images/hotspots/essen1-hs-3-img-0.jpg",
+            "images/hotspots/essen1-hs-3-img-1.jpg",
+            "images/hotspots/essen1-hs-3-img-2.jpg",
+            "images/hotspots/essen1-hs-3-img-3.jpg",
+            "images/hotspots/essen1-hs-3-img-4.jpg",
+            "images/hotspots/essen1-hs-3-img-5.jpg",
             "images/hotspots/essen1-hs-3-img-6.jpg"
           ],
           "imageUrl": "images/hotspots/essen1-hs-3.jpg",
@@ -432,13 +432,13 @@
           "color": "#f59e0b",
           "title": "Impressionen aus unserer Küche",
           "images": [
-            "images/hotspots/essen1-hs-5-img-0.jpeg",
-            "images/hotspots/essen1-hs-5-img-1.jpeg",
-            "images/hotspots/essen1-hs-5-img-2.jpeg",
-            "images/hotspots/essen1-hs-5-img-3.jpeg",
-            "images/hotspots/essen1-hs-5-img-4.jpeg",
-            "images/hotspots/essen1-hs-5-img-5.jpeg",
-            "images/hotspots/essen1-hs-5-img-6.jpeg"
+            "images/hotspots/essen1-hs-5-img-0.jpg",
+            "images/hotspots/essen1-hs-5-img-1.jpg",
+            "images/hotspots/essen1-hs-5-img-2.jpg",
+            "images/hotspots/essen1-hs-5-img-3.jpg",
+            "images/hotspots/essen1-hs-5-img-4.jpg",
+            "images/hotspots/essen1-hs-5-img-5.jpg",
+            "images/hotspots/essen1-hs-5-img-6.jpg"
           ],
           "position": {
             "yaw": -243.62349575630947,
@@ -453,7 +453,7 @@
           "color": "#f59e0b",
           "title": "🍽️ Tisch reservieren im La Piazza",
           "images": [
-            "images/hotspots/essen1-hs-6-img-0.jpeg"
+            "images/hotspots/essen1-hs-6-img-0.jpg"
           ],
           "position": {
             "yaw": -222.01028239117795,
@@ -527,7 +527,7 @@
     "transitionDuration": 800
   },
   "createdAt": "2026-03-01T03:14:57.874Z",
-  "updatedAt": "2026-03-15T06:57:55.551Z",
+  "updatedAt": "2026-03-15T07:44:06.734Z",
   "description": "An immersive 360 experience",
   "startSceneId": "1772388617652-xfoqqj164"
 }
