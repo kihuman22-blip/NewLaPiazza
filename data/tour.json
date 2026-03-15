@@ -212,34 +212,21 @@
           "targetSceneId": "1772334937434-2iaw7223e"
         },
         {
-          "id": "1772338529638-gdr20crb0",
-          "icon": "menu",
-          "type": "image",
-          "color": "#f59e0b",
-          "title": "📖 Unsere Speisekarte",
-          "imageUrl": "images/hotspots/essen2-hs-3.jpg",
-          "position": {
-            "yaw": 232.28948271532641,
-            "pitch": -13.92058717246507
-          },
-          "description": "Entdecken Sie unsere aktuellen italienischen Spezialitäten –\nvon frischer Pasta über knusprige Pizza bis hin zu feinen Fleisch- und Fischgerichten.\n\n👉 Hier klicken, um unsere Speisekarte zu öffnen https://lapiazza-bremerhaven.de/menu/\n\nWir freuen uns darauf, Sie kulinarisch zu verwöhnen! 🇮🇹"
-        },
-        {
           "id": "1772338776255-x7t7rer8g",
           "icon": "star",
           "type": "image",
           "color": "#f59e0b",
           "title": "La Piazza – Ihre exklusive Eventlocation in Bremerhaven",
           "images": [
-            "images/hotspots/essen2-hs-4-img-0.jpg",
-            "images/hotspots/essen2-hs-4-img-1.jpg",
-            "images/hotspots/essen2-hs-4-img-2.jpg",
-            "images/hotspots/essen2-hs-4-img-3.jpg",
-            "images/hotspots/essen2-hs-4-img-4.jpg",
-            "images/hotspots/essen2-hs-4-img-5.jpg",
-            "images/hotspots/essen2-hs-4-img-6.jpg"
+            "images/hotspots/essen2-hs-3-img-0.jpg",
+            "images/hotspots/essen2-hs-3-img-1.jpg",
+            "images/hotspots/essen2-hs-3-img-2.jpg",
+            "images/hotspots/essen2-hs-3-img-3.jpg",
+            "images/hotspots/essen2-hs-3-img-4.jpg",
+            "images/hotspots/essen2-hs-3-img-5.jpg",
+            "images/hotspots/essen2-hs-3-img-6.jpg"
           ],
-          "imageUrl": "images/hotspots/essen2-hs-4.jpg",
+          "imageUrl": "images/hotspots/essen2-hs-3.jpg",
           "position": {
             "yaw": -191.06221834965348,
             "pitch": 3.0826198223650327
@@ -252,12 +239,25 @@
           "type": "image",
           "color": "#f59e0b",
           "title": "Folgen Sie La Piazza auf unseren Social Media Kanälen",
-          "imageUrl": "images/hotspots/essen2-hs-5.jpg",
+          "imageUrl": "images/hotspots/essen2-hs-4.jpg",
           "position": {
             "yaw": -241.70993950204902,
             "pitch": 12.369562736431801
           },
           "description": "Bleiben Sie immer auf dem Laufenden und entdecken Sie, was La Piazza besonders macht:\n\n🍝 Neue saisonale Gerichte & Spezialitäten\n🍷 Weinempfehlungen & besondere Events\n🎉 Impressionen von Feiern & Veranstaltungen\n✨ Einblicke hinter die Kulissen unserer Küche\n\nErleben Sie italienische Genussmomente auch digital und verpassen Sie keine Neuigkeiten mehr.\n\n👉 Zum Instagram-Profilhttps://www.instagram.com/la_piazza_bremerhaven/\n👉 Zum Facebook-Profilhttps://www.facebook.com/lapiazzabremerhaven/?locale=de_DE\n\nWir freuen uns auf Ihren Besuch – online und natürlich persönlich bei uns im La Piazza in Bremerhaven."
+        },
+        {
+          "id": "1773589307794-qkudbst8m",
+          "type": "info",
+          "position": {
+            "yaw": 231.27830113177103,
+            "pitch": -15.154686329752348
+          },
+          "title": "📖 Unsere Speisekarte",
+          "icon": "menu",
+          "color": "#f59e0b",
+          "description": "Impressionen aus unserer Küche\n\nEin kleiner Vorgeschmack auf unsere italienischen Spezialitäten:\n\nKnusprige Steinofenpizza, hausgemachte Pasta, frische Fischgerichte und verführerische Desserts – mit Liebe zubereitet und aus besten Zutaten.\n\n👉 Lassen Sie sich inspirieren und entdecken Sie die Vielfalt unserer Karte.\n\nBuon appetito! 🇮🇹",
+          "pdfUrl": "files/essen2-hs-5.pdf"
         }
       ],
       "imageUrl": "images/scenes/essen2.jpg",
@@ -527,7 +527,7 @@
     "transitionDuration": 800
   },
   "createdAt": "2026-03-01T03:14:57.874Z",
-  "updatedAt": "2026-03-15T07:44:06.734Z",
+  "updatedAt": "2026-03-15T15:43:53.418Z",
   "description": "An immersive 360 experience",
   "startSceneId": "1772388617652-xfoqqj164"
 }
